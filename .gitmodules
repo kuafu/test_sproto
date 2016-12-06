@@ -1,0 +1,3 @@
+[submodule "sproto"]
+	path = Thirdparty/sproto
+	url = https://github.com/kuafu/sproto.git
